@@ -20,7 +20,7 @@
 
 title: Meena Chockalingam
 email: mchockal@icloud.com
-description: Bookmark this page to keep up with my latests works!
+description: Bookmark this page to keep up with my updates!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mchockal
@@ -30,6 +30,11 @@ github_username:  mchockal
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/mchockal" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/mchockal/" }
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
