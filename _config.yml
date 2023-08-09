@@ -20,12 +20,10 @@
 
 title: Meena's homepage
 email: mchockal@icloud.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Bookmark this to keep an eye on my project updates!
+description: Bookmark this to keep an eye on my project updates!
 baseurl: /home # the subpath of your site, e.g. /blog
 domain: mchockal.github.io 
 url: https://mchockal.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  mchockal
 
 # Build settings
