@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transitioning from Backend Development to Machine Learning Engineering"
-date:   2023-08-09 16:04:37 -0500
+date:   2023-08-08 16:04:37 -0500
 categories: jekyll update
 ---
 # Here is a little bit on my academic and professional journey transitioning into Machine Learning
